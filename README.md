@@ -2,7 +2,7 @@
 - 👀 I’m interested in Daily learning
 - 🌱 I’m currently learning C++/Java
 - 💞️ I’m looking to collaborate on this platform
-- 📫 How to reach me: @rahulbha__tt.7 on instagram 
+- 📫 How to reach me: @rahulbha__tt.1729 on instagram 
 
 <!---
 rahul-bhatt43/rahul-bhatt43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
