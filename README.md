@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full-Stack Web Apps<br>👯 Open-Source Contributor<br>🌱 I’m currently learning Backend<br>💬 Front-end and API Usage
+🔭 Full-Stack Web Apps<br>👯 Open-Source Contributor<br>🌱 I’m currently learning Mobile App Dev.<br>💬 Front-end and API Usage
 
 
 ## 🌐 Socials:
